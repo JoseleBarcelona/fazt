@@ -1,0 +1,7 @@
+Hola Chavales, qué pasa!!!
+
+Esto es una prueba 
+de un ejecutable con bash
+Prueba de contenido
+Otra prueba del archivo check_directory
+Vamos para bingo

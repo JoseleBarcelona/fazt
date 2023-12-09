@@ -1,0 +1,16 @@
+total 52
+-rwxr-xr-x 1 josele josele  313 sep  2 19:16 case.sh
+-rwxr-xr-x 1 josele josele 2211 sep  2 18:41 conditional2.sh
+-rwxr-xr-x 1 josele josele  449 sep  2 18:39 conditional.sh
+-rwxr-xr-x 1 josele josele  202 sep  2 20:20 continue_break.sh
+-rw-rw-r-- 1 josele josele    0 sep  6 19:29 error.txt
+-rw-rw-r-- 1 josele josele    0 sep  6 19:29 file.txt
+-rwxr-xr-x 1 josele josele  198 sep  2 20:08 for.sh
+-rwxrwxr-x 1 josele josele  149 ago 29 00:04 helloworld.sh
+-rw-rw-r-- 1 josele josele   75 sep  1 21:31 hola.txt
+-rwxr-xr-x 1 josele josele  296 sep  2 18:55 logical_operator.sh
+-rwxr-xr-x 1 josele josele  159 sep  2 08:03 output.sh
+-rwxr-xr-x 1 josele josele   75 sep  2 08:16 read.sh
+-rwxr-xr-x 1 josele josele  550 sep  6 19:29 stderror_stdoutput.sh
+-rwxr-xr-x 1 josele josele   82 sep  2 19:55 until.sh
+-rwxr-xr-x 1 josele josele   92 sep  2 20:10 while.sh
